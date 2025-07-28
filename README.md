@@ -30,5 +30,7 @@ dpkg --get-selections
 Screenshots
 All screenshots of the lab steps are stored in the screenshots/ folder.
 
+---
+
 📄 [Download Full Lab Report (PDF)](./Linux_Lab_Report_Google_Cybersecurity_v2.pdf)
 
