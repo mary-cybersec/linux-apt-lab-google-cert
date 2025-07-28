@@ -15,7 +15,10 @@ This repository documents a hands-on lab using the APT package manager in a Linu
 3. ✅ Uninstall Suricata  
 4. ✅ Install tcpdump  
 5. ✅ List installed applications  
-6. ✅ Reinstall Suricata  
+6. ✅ Reinstall Suricata
+
+   📄 [Download Full Lab Report (PDF)](./Linux_Lab_Report_Google_Cybersecurity_v2.pdf)
+
 
 ## Commands Used
 
